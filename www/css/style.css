@@ -1,0 +1,17 @@
+.title{
+  font-weight: bold;
+  background-color: rgb(224, 216, 216);
+  font: fantasy;
+}
+
+.pergunta{
+margin-top:5vh;
+}
+
+#responder1{
+  margin-left:30vh;
+}
+
+#responder3{
+  margin-left:30vh;
+}
